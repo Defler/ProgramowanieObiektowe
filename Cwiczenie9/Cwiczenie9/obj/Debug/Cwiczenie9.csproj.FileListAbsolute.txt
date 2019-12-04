@@ -1,0 +1,15 @@
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\bin\Debug\Cwiczenie9.exe.config
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\bin\Debug\Cwiczenie9.exe
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\bin\Debug\Cwiczenie9.pdb
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.csprojAssemblyReference.cache
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9_MarkupCompile.cache
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9_MarkupCompile.lref
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.g.resources
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.Properties.Resources.resources
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.csproj.GenerateResource.cache
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.exe
+C:\Users\local\Desktop\Cwiczenie9\Cwiczenie9\obj\Debug\Cwiczenie9.pdb

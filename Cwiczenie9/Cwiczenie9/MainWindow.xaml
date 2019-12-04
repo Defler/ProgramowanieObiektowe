@@ -1,0 +1,34 @@
+﻿<Window x:Name="MyWindow" x:Class="Cwiczenie9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cwiczenie9"
+        mc:Ignorable="d"
+        Title="Guwbu v1.00" Height="347.899" Width="534.033" Background="{x:Null}">
+    <Grid x:Name="GridMain" HorizontalAlignment="Left" Height="296" Margin="10,10,0,0" VerticalAlignment="Top" Width="504">
+        <TextBox x:Name="MyTextBoxPobieranie" HorizontalAlignment="Left" Height="59" Margin="10,138,0,0" TextWrapping="Wrap" Text="[wprowadz imie]" VerticalAlignment="Top" Width="484" FontFamily="Impact" FontSize="48">
+            <TextBox.BorderBrush>
+                <LinearGradientBrush EndPoint="0,20" MappingMode="Absolute" StartPoint="0,0">
+                    <GradientStop Color="#FFABADB3" Offset="0.05"/>
+                    <GradientStop Color="#FFE2E3EA" Offset="0.07"/>
+                    <GradientStop Color="#FF070808" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.BorderBrush>
+        </TextBox>
+        <TextBox x:Name="MyTextBoxWyswietlanie" HorizontalAlignment="Left" Height="59" Margin="10,10,0,0" TextWrapping="Wrap" Text="WYNIK" VerticalAlignment="Top" Width="484" FontFamily="Impact" FontSize="48" Background="#FFC9C9C9" IsReadOnly="True">
+            <TextBox.BorderBrush>
+                <LinearGradientBrush EndPoint="0,20" MappingMode="Absolute" StartPoint="0,0">
+                    <GradientStop Color="#FFABADB3" Offset="0.05"/>
+                    <GradientStop Color="#FFE2E3EA" Offset="0.07"/>
+                    <GradientStop Color="#FF07090C" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.BorderBrush>
+        </TextBox>
+        <Button x:Name="MyButton" Content="GRAJ" HorizontalAlignment="Left" Margin="332,207,0,0" VerticalAlignment="Top" Width="162" Height="79" Click="MyButton_Click" FontSize="36" FontFamily="Swis721 BdCnOul BT Outline" Background="#FF59A4D8"/>
+        <Label x:Name="LabelPobieranie" Content="Twoje imie:" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" FontFamily="Impact" FontSize="24"/>
+        <Button x:Name="ButtonCzyszczenie" Content="KASUJ" HorizontalAlignment="Left" Margin="170,207,0,0" VerticalAlignment="Top" Width="132" Height="79" FontSize="36" FontFamily="Swis721 BdCnOul BT Outline" Click="ButtonCzyszczenie_Click" BorderThickness="3" Background="#FFF95B5B"/>
+
+    </Grid>
+
+</Window>
