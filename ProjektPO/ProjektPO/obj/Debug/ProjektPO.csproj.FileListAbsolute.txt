@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\bin\Debug\ProjektPO.exe.config
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\bin\Debug\ProjektPO.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\bin\Debug\ProjektPO.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\obj\Debug\ProjektPO.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\obj\Debug\ProjektPO.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\ProjektPO\ProjektPO\obj\Debug\ProjektPO.pdb
